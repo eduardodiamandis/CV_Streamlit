@@ -1,5 +1,5 @@
 import streamlit as st
-from faker import Faker  # Para gerar dados fictícios (opcional)
+
 
 # Configuração da página
 st.set_page_config(
