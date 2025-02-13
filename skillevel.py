@@ -22,8 +22,8 @@ with st.sidebar:
     st.header("📬 Contato")
     st.write("**Telefone:** 11 947154475")
     st.write("**Email:** eduardodiamandis080@gmail.com")
-    st.write("**GitHub:** [github.com/ediamandis](https://github.com/)")  # Adicione seu link real
-    st.write("**LinkedIn:** [linkedin.com/in/ediamandis](https://linkedin.com/)")  # Adicione seu link real
+    st.write("**GitHub:** [https://github.com/eduardodiamandis)")  # Adicione seu link real
+    st.write("**LinkedIn:** [www.linkedin.com/in/eduardo-diamandis-080pp)")  # Adicione seu link real
     
     # Botão para download do PDF
     with open("Eduardo_curriculo_2024.pdf", "rb") as pdf_file:
