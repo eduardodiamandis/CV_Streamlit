@@ -38,7 +38,7 @@ with st.sidebar:
 # Seção principal
 col1, col2 = st.columns([3,1])
 with col1:
-    st.title("EDUARDO DIAMANDIS")
+    st.title("EDUARDO DIAMANDIS DA CRUZ")
     st.header("Gestor de Tecnologia & Desenvolvedor", divider="blue")
 
     # Experiência Profissional
