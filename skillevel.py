@@ -19,7 +19,7 @@ st.markdown("""
 
 # Sidebar com informações de contato
 with st.sidebar:
-    st.header("📬 Contato")
+    st.header("📬 Contatos")
     st.write("**Telefone:** 11 947154475")
     st.write("**Email:** eduardodiamandis080@gmail.com")
     st.write("**GitHub:** [https://github.com/eduardodiamandis)")  # Adicione seu link real
