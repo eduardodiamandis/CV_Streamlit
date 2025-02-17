@@ -3,7 +3,7 @@ import streamlit as st
 
 # Configuração da página
 st.set_page_config(
-    page_title="Eduardo Diamandis - Currículo",
+    page_title="Eduardo Diamandis da Cruz - Currículo",
     page_icon="📄",
     layout="wide"
 )
